@@ -11,9 +11,9 @@ app.get('/', (req, res) => {
     const monthDay = `${month}/${day}`;
 
     if (specialDays[monthDay]) {
-        res.json({ specialDay: specialDays[monthDay] });
+        res.json({ specialDay: specialDays[monthDay].name, color: specialDays[monthDay].color });
     } else {
-        res.json({ specialDay: 'Today is not a special day.' });
+        res.json({ specialDay: 'Today is not a special day.', color: '#FFFFFF' });
     }
 });
 
