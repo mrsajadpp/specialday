@@ -21,7 +21,7 @@
     },
     "08/15": {
         "name": "Independence Day",
-        "color": "#FFD700"
+        "color": "#ff4501"
     },
     "10/31": {
         "name": "Halloween",
@@ -49,11 +49,7 @@
     },
     "10/10": {
         "name": "World Mental Health Day",
-        "color": "#4B0082"
-    },
-    "11/11": {
-        "name": "Veterans Day",
-        "color": "#008080"
+        "color": "#8BC34A"
     },
     "12/31": {
         "name": "New Year's Eve",
