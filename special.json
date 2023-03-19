@@ -19,7 +19,7 @@
         "name": "International Workers' Day",
         "color": "#32CD32"
     },
-    "07/04": {
+    "08/15": {
         "name": "Independence Day",
         "color": "#FFD700"
     },
@@ -43,6 +43,10 @@
         "name": "Autumnal Equinox",
         "color": "#FF8C00"
     },
+    "04/15": {
+        "name": "Vishu",
+        "color": "#FCDD04"
+    },
     "10/10": {
         "name": "World Mental Health Day",
         "color": "#4B0082"
@@ -50,10 +54,6 @@
     "11/11": {
         "name": "Veterans Day",
         "color": "#008080"
-    },
-    "11/25": {
-        "name": "Thanksgiving Day",
-        "color": "#FFA07A"
     },
     "12/31": {
         "name": "New Year's Eve",
